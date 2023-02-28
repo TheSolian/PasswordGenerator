@@ -69,7 +69,7 @@ function App() {
           </div>
         </div>
         <div className='flex-1 flex justify-evenly gap-8'>
-          <label htmlFor='length'>Länge</label>
+          <label htmlFor='length'>Length</label>
           <input
             type='number'
             id='length'
